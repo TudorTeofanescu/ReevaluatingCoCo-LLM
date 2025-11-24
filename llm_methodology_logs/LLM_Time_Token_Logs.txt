@@ -1,0 +1,740 @@
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (26 tool uses · 94.6k tokens · 3m 5s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (50 tool uses · 92.5k tokens · 6m 6s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (49 tool uses · 79.3k tokens · 5m 54s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 77.6k tokens · 4m 55s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (43 tool uses · 98.3k tokens · 6m 13s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (45 tool uses · 65.0k tokens · 5m 17s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (46 tool uses · 80.3k tokens · 5m 30s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (49 tool uses · 77.7k tokens · 4m 57s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (31 tool uses · 61.1k tokens · 3m 25s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (37 tool uses · 84.9k tokens · 4m 5s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (48 tool uses · 100.4k tokens · 4m 59s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (53 tool uses · 71.3k tokens · 5m 40s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (41 tool uses · 62.2k tokens · 4m 50s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 99.9k tokens · 4m 9s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 82.9k tokens · 4m 15s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (23 tool uses · 54.4k tokens · 2m 52s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 78.9k tokens · 5m 18s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (52 tool uses · 88.8k tokens · 6m 10s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 58.3k tokens · 5m 4s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (35 tool uses · 48.1k tokens · 3m 27s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (54 tool uses · 85.0k tokens · 7m 32s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (44 tool uses · 107.9k tokens · 5m 40s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (58 tool uses · 97.6k tokens · 8m 8s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (61 tool uses · 82.8k tokens · 7m 15s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (52 tool uses · 130.4k tokens · 6m 27s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (60 tool uses · 122.9k tokens · 7m 0s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (45 tool uses · 62.5k tokens · 5m 18s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (61 tool uses · 95.2k tokens · 9m 16s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (46 tool uses · 94.3k tokens · 5m 47s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (63 tool uses · 63.3k tokens · 7m 29s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (52 tool uses · 67.7k tokens · 5m 43s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (56 tool uses · 84.1k tokens · 7m 5s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (45 tool uses · 68.5k tokens · 4m 30s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (57 tool uses · 68.2k tokens · 6m 25s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (54 tool uses · 63.7k tokens · 6m 47s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (51 tool uses · 114.8k tokens · 7m 25s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (53 tool uses · 81.6k tokens · 6m 25s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (55 tool uses · 71.1k tokens · 7m 47s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (56 tool uses · 81.6k tokens · 7m 21s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (59 tool uses · 84.0k tokens · 6m 56s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (48 tool uses · 73.9k tokens · 6m 7s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (55 tool uses · 79.0k tokens · 6m 50s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (43 tool uses · 69.3k tokens · 5m 31s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (48 tool uses · 93.8k tokens · 5m 13s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (45 tool uses · 99.6k tokens · 5m 38s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (46 tool uses · 68.5k tokens · 6m 21s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (58 tool uses · 84.5k tokens · 6m 46s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (59 tool uses · 105.3k tokens · 7m 46s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (60 tool uses · 85.9k tokens · 7m 27s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (46 tool uses · 88.4k tokens · 5m 37s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (53 tool uses · 60.0k tokens · 5m 44s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (48 tool uses · 54.7k tokens · 5m 56s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (44 tool uses · 80.2k tokens · 6m 7s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (62 tool uses · 87.5k tokens · 8m 0s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (58 tool uses · 71.2k tokens · 8m 7s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (55 tool uses · 77.0k tokens · 6m 17s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (53 tool uses · 75.2k tokens · 6m 53s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (47 tool uses · 95.2k tokens · 6m 11s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (51 tool uses · 55.9k tokens · 6m 47s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (46 tool uses · 65.5k tokens · 6m 32s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (59 tool uses · 83.0k tokens · 7m 60s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (57 tool uses · 69.1k tokens · 7m 7s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (56 tool uses · 66.2k tokens · 8m 23s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (63 tool uses · 123.3k tokens · 7m 36s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (50 tool uses · 71.7k tokens · 5m 51s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (51 tool uses · 117.9k tokens · 6m 9s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (57 tool uses · 71.2k tokens · 7m 50s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (44 tool uses · 76.5k tokens · 6m 5s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (54 tool uses · 96.9k tokens · 7m 57s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (62 tool uses · 86.4k tokens · 8m 25s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (56 tool uses · 60.1k tokens · 7m 4s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (46 tool uses · 82.8k tokens · 5m 51s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (52 tool uses · 71.2k tokens · 8m 45s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (64 tool uses · 72.7k tokens · 8m 36s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (74 tool uses · 71.9k tokens · 10m 10s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (57 tool uses · 77.7k tokens · 7m 24s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (55 tool uses · 67.0k tokens · 7m 49s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (58 tool uses · 59.1k tokens · 7m 17s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (49 tool uses · 51.0k tokens · 6m 35s)
+
+● Task(Analyze Agent 1 extensions)
+  ⎿  Done (51 tool uses · 111.3k tokens · 6m 20s)
+
+● Task(Analyze Agent 2 extensions)
+  ⎿  Done (31 tool uses · 51.4k tokens · 3m 9s)
+
+● Task(Analyze Agent 3 extensions)
+  ⎿  Done (35 tool uses · 93.3k tokens · 4m 47s)
+
+● Task(Analyze Agent 4 extensions)
+  ⎿  Done (31 tool uses · 60.5k tokens · 3m 37s)
+
+● Task(Analyze Agent 5 extensions)
+  ⎿  Done (34 tool uses · 72.2k tokens · 3m 49s)
+
+● Task(Analyze Agent 6 extensions)
+  ⎿  Done (57 tool uses · 90.7k tokens · 5m 21s)
+
+● Task(Analyze Agent 7 extensions)
+  ⎿  Done (38 tool uses · 101.5k tokens · 4m 50s)
+
+● Task(Analyze Agent 8 extensions)
+  ⎿  Done (41 tool uses · 69.3k tokens · 4m 13s)
+
+● Task(Analyze Agent 9 extensions)
+  ⎿  Done (53 tool uses · 65.9k tokens · 6m 15s)
+
+● Task(Analyze Agent 10 extensions)
+  ⎿  Done (41 tool uses · 90.9k tokens · 4m 54s)
+  
+● Task(Analyze Agent 1 batch 2)
+  ⎿  Done (55 tool uses · 59.1k tokens · 6m 39s)
+
+● Task(Analyze Agent 2 batch 2)
+  ⎿  Done (45 tool uses · 81.5k tokens · 4m 46s)
+
+● Task(Analyze Agent 3 batch 2)
+  ⎿  Done (40 tool uses · 65.8k tokens · 4m 27s)
+
+● Task(Analyze Agent 4 batch 2)
+  ⎿  Done (42 tool uses · 68.7k tokens · 5m 6s)
+
+● Task(Analyze Agent 5 batch 2)
+  ⎿  Done (52 tool uses · 107.7k tokens · 5m 12s)
+
+● Task(Analyze Agent 6 batch 2)
+  ⎿  Done (30 tool uses · 77.0k tokens · 3m 39s)
+
+● Task(Analyze Agent 7 batch 2)
+  ⎿  Done (43 tool uses · 103.7k tokens · 4m 54s)
+
+● Task(Analyze Agent 8 batch 2)
+  ⎿  Done (41 tool uses · 64.7k tokens · 4m 35s)
+
+● Task(Analyze Agent 9 batch 2)
+  ⎿  Done (39 tool uses · 74.5k tokens · 4m 29s)
+
+● Task(Analyze Agent 10 batch 2)
+  ⎿  Done (31 tool uses · 53.3k tokens · 3m 31s)
+
+● Task(Analyze Agent 1 batch 3)
+  ⎿  Done (25 tool uses · 50.0k tokens · 2m 52s)
+
+● Task(Analyze Agent 2 batch 3)
+  ⎿  Done (32 tool uses · 55.7k tokens · 3m 45s)
+
+● Task(Analyze Agent 3 batch 3)
+  ⎿  Done (36 tool uses · 78.7k tokens · 5m 18s)
+
+● Task(Analyze Agent 4 batch 3)
+  ⎿  Done (50 tool uses · 73.1k tokens · 5m 19s)
+
+● Task(Analyze Agent 5 batch 3)
+  ⎿  Done (39 tool uses · 57.4k tokens · 4m 58s)
+
+● Task(Analyze Agent 6 batch 3)
+  ⎿  Done (65 tool uses · 103.4k tokens · 8m 8s)
+
+● Task(Analyze Agent 7 batch 3)
+  ⎿  Done (54 tool uses · 77.7k tokens · 5m 50s)
+
+● Task(Analyze Agent 8 batch 3)
+  ⎿  Done (62 tool uses · 69.4k tokens · 6m 16s)
+
+● Task(Analyze Agent 9 batch 3)
+  ⎿  Done (32 tool uses · 73.8k tokens · 4m 8s)
+
+● Task(Analyze Agent 10 batch 3)
+  ⎿  Done (42 tool uses · 107.8k tokens · 5m 12s)
+
+● Task(Analyze Agent 1 batch 4)
+  ⎿  Done (48 tool uses · 75.3k tokens · 5m 11s)
+
+● Task(Analyze Agent 2 batch 4)
+  ⎿  Done (50 tool uses · 81.0k tokens · 6m 22s)
+
+● Task(Analyze Agent 3 batch 4)
+  ⎿  Done (49 tool uses · 94.0k tokens · 5m 58s)
+
+● Task(Analyze Agent 4 batch 4)
+  ⎿  Done (43 tool uses · 55.5k tokens · 4m 27s)
+
+● Task(Analyze Agent 5 batch 4)
+  ⎿  Done (31 tool uses · 91.5k tokens · 3m 32s)
+
+● Task(Analyze Agent 6 batch 4)
+  ⎿  Done (51 tool uses · 72.4k tokens · 6m 55s)
+
+● Task(Analyze Agent 7 batch 4)
+  ⎿  Done (46 tool uses · 71.2k tokens · 5m 52s)
+
+● Task(Analyze Agent 8 batch 4)
+  ⎿  Done (38 tool uses · 94.5k tokens · 4m 24s)
+
+● Task(Analyze Agent 9 batch 4)
+  ⎿  Done (37 tool uses · 52.8k tokens · 3m 54s)
+
+● Task(Analyze Agent 10 batch 4)
+  ⎿  Done (44 tool uses · 96.9k tokens · 5m 16s)
+
+● Task(Analyze Agent 1 batch 5)
+  ⎿  Done (29 tool uses · 53.3k tokens · 3m 33s)
+
+● Task(Analyze Agent 2 batch 5)
+  ⎿  Done (48 tool uses · 59.6k tokens · 5m 2s)
+
+● Task(Analyze Agent 3 batch 5)
+  ⎿  Done (33 tool uses · 99.1k tokens · 4m 16s)
+
+● Task(Analyze Agent 4 batch 5)
+  ⎿  Done (36 tool uses · 100.7k tokens · 4m 6s)
+
+● Task(Analyze Agent 5 batch 5)
+  ⎿  Done (44 tool uses · 68.7k tokens · 4m 50s)
+
+● Task(Analyze Agent 6 batch 5)
+  ⎿  Done (30 tool uses · 48.0k tokens · 2m 33s)
+
+● Task(Analyze Agent 7 batch 5)
+  ⎿  Done (43 tool uses · 67.3k tokens · 5m 1s)
+
+● Task(Analyze Agent 8 batch 5)
+  ⎿  Done (34 tool uses · 99.0k tokens · 4m 14s)
+
+● Task(Analyze Agent 9 batch 5)
+  ⎿  Done (53 tool uses · 78.0k tokens · 5m 3s)
+
+● Task(Analyze Agent 10 batch 5)
+  ⎿  Done (52 tool uses · 98.6k tokens · 5m 29s)
+
+● Task(Analyze Agent 1 batch 6)
+  ⎿  Done (36 tool uses · 83.2k tokens · 5m 56s)
+
+● Task(Analyze Agent 2 batch 6)
+  ⎿  Done (44 tool uses · 84.2k tokens · 6m 3s)
+
+● Task(Analyze Agent 3 batch 6)
+  ⎿  Done (30 tool uses · 83.6k tokens · 3m 52s)
+
+● Task(Analyze Agent 4 batch 6)
+  ⎿  Done (32 tool uses · 53.5k tokens · 4m 11s)
+
+● Task(Analyze Agent 5 batch 6)
+  ⎿  Done (56 tool uses · 104.4k tokens · 6m 10s)
+
+● Task(Analyze Agent 6 batch 6)
+  ⎿  Done (34 tool uses · 74.3k tokens · 4m 16s)
+
+● Task(Analyze Agent 7 batch 6)
+  ⎿  Done (40 tool uses · 58.4k tokens · 4m 59s)
+
+● Task(Analyze Agent 8 batch 6)
+  ⎿  Done (26 tool uses · 48.5k tokens · 3m 40s)
+
+● Task(Analyze Agent 9 batch 6)
+  ⎿  Done (43 tool uses · 66.0k tokens · 4m 58s)
+
+● Task(Analyze Agent 10 batch 6)
+  ⎿  Done (41 tool uses · 65.9k tokens · 5m 1s)
+
+● Task(Analyze Agent 1 batch 7)
+  ⎿  Done (34 tool uses · 108.7k tokens · 5m 50s)
+
+● Task(Analyze Agent 2 batch 7)
+  ⎿  Done (40 tool uses · 66.7k tokens · 5m 43s)
+
+● Task(Analyze Agent 3 batch 7)
+  ⎿  Done (49 tool uses · 79.2k tokens · 7m 39s)
+
+● Task(Analyze Agent 4 batch 7)
+  ⎿  Done (36 tool uses · 94.7k tokens · 5m 41s)
+
+● Task(Analyze Agent 5 batch 7)
+  ⎿  Done (31 tool uses · 97.9k tokens · 5m 56s)
+
+● Task(Analyze Agent 6 batch 7)
+  ⎿  Done (52 tool uses · 85.1k tokens · 7m 50s)
+
+● Task(Analyze Agent 7 batch 7)
+  ⎿  Done (40 tool uses · 85.2k tokens · 5m 18s)
+
+● Task(Analyze Agent 8 batch 7)
+  ⎿  Done (30 tool uses · 49.8k tokens · 4m 26s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (56 tool uses · 71.5k tokens · 8m 16s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (51 tool uses · 79.5k tokens · 6m 22s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (54 tool uses · 64.6k tokens · 7m 11s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (63 tool uses · 79.8k tokens · 8m 8s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (63 tool uses · 77.1k tokens · 7m 48s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (47 tool uses · 79.5k tokens · 7m 28s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (57 tool uses · 69.7k tokens · 6m 50s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (51 tool uses · 64.2k tokens · 7m 4s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (50 tool uses · 71.8k tokens · 6m 29s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (68 tool uses · 84.7k tokens · 9m 10s)
+
+● Task(Analyze extensions for Agent 1)
+  ⎿  Done (47 tool uses · 61.4k tokens · 6m 24s)
+
+● Task(Analyze extensions for Agent 2)
+  ⎿  Done (52 tool uses · 86.6k tokens · 7m 7s)
+
+● Task(Analyze extensions for Agent 3)
+  ⎿  Done (45 tool uses · 63.0k tokens · 6m 4s)
+
+● Task(Analyze extensions for Agent 4)
+  ⎿  Done (52 tool uses · 53.5k tokens · 6m 31s)
+
+● Task(Analyze extensions for Agent 5)
+  ⎿  Done (47 tool uses · 84.7k tokens · 7m 1s)
+
+● Task(Analyze extensions for Agent 6)
+  ⎿  Done (53 tool uses · 120.8k tokens · 7m 30s)
+
+● Task(Analyze extensions for Agent 7)
+  ⎿  Done (69 tool uses · 68.1k tokens · 8m 39s)
+
+● Task(Analyze extensions for Agent 8)
+  ⎿  Done (48 tool uses · 56.8k tokens · 6m 16s)
+
+● Task(Analyze extensions for Agent 9)
+  ⎿  Done (42 tool uses · 115.2k tokens · 6m 6s)
+
+● Task(Analyze extensions for Agent 10)
+  ⎿  Done (55 tool uses · 68.4k tokens · 8m 3s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (40 tool uses · 82.9k tokens · 4m 45s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (54 tool uses · 96.0k tokens · 7m 10s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (36 tool uses · 73.3k tokens · 4m 54s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (46 tool uses · 68.3k tokens · 6m 10s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (43 tool uses · 79.3k tokens · 4m 50s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (44 tool uses · 61.9k tokens · 4m 58s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (41 tool uses · 62.4k tokens · 4m 58s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (36 tool uses · 58.7k tokens · 4m 52s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (55 tool uses · 76.8k tokens · 6m 28s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (29 tool uses · 56.2k tokens · 3m 22s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (57 tool uses · 103.7k tokens · 6m 38s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (49 tool uses · 106.1k tokens · 6m 25s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 78.1k tokens · 4m 60s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (54 tool uses · 77.0k tokens · 6m 28s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (50 tool uses · 69.4k tokens · 6m 34s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 67.8k tokens · 6m 3s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (29 tool uses · 85.2k tokens · 4m 12s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (28 tool uses · 53.8k tokens · 3m 17s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (27 tool uses · 71.0k tokens · 3m 16s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (57 tool uses · 88.6k tokens · 7m 39s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (34 tool uses · 89.9k tokens · 4m 18s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (50 tool uses · 133.9k tokens · 6m 0s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (54 tool uses · 107.8k tokens · 6m 26s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 99.6k tokens · 4m 46s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (47 tool uses · 118.7k tokens · 6m 12s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (48 tool uses · 75.8k tokens · 5m 51s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (48 tool uses · 108.5k tokens · 6m 29s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 63.0k tokens · 5m 37s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 58.5k tokens · 5m 23s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (45 tool uses · 101.0k tokens · 5m 35s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (41 tool uses · 98.9k tokens · 5m 7s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (45 tool uses · 127.9k tokens · 6m 14s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (43 tool uses · 82.1k tokens · 6m 7s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (46 tool uses · 56.1k tokens · 5m 1s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 56.4k tokens · 4m 48s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 86.8k tokens · 4m 52s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 55.0k tokens · 4m 31s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (37 tool uses · 84.6k tokens · 5m 31s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (41 tool uses · 92.4k tokens · 4m 52s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (56 tool uses · 97.0k tokens · 7m 12s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (47 tool uses · 78.2k tokens · 5m 50s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (36 tool uses · 54.6k tokens · 3m 53s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (46 tool uses · 60.4k tokens · 6m 5s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (40 tool uses · 85.4k tokens · 5m 45s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (43 tool uses · 57.7k tokens · 5m 21s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (40 tool uses · 78.3k tokens · 6m 5s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (55 tool uses · 104.1k tokens · 7m 18s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (35 tool uses · 63.4k tokens · 4m 5s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (34 tool uses · 57.8k tokens · 3m 36s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (49 tool uses · 84.7k tokens · 6m 31s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (50 tool uses · 67.0k tokens · 6m 55s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (37 tool uses · 116.5k tokens · 5m 49s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (39 tool uses · 71.6k tokens · 5m 57s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (37 tool uses · 74.6k tokens · 6m 16s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (50 tool uses · 81.9k tokens · 6m 26s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (40 tool uses · 102.7k tokens · 7m 35s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (41 tool uses · 63.8k tokens · 6m 36s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (37 tool uses · 68.5k tokens · 6m 20s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (39 tool uses · 71.0k tokens · 5m 14s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (47 tool uses · 101.4k tokens · 7m 10s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 88.9k tokens · 5m 41s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (48 tool uses · 80.8k tokens · 6m 46s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (49 tool uses · 75.8k tokens · 6m 42s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (58 tool uses · 80.8k tokens · 7m 45s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (66 tool uses · 87.8k tokens · 9m 54s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (42 tool uses · 84.2k tokens · 6m 15s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (32 tool uses · 73.0k tokens · 4m 41s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (41 tool uses · 95.8k tokens · 6m 17s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (32 tool uses · 43.6k tokens · 4m 26s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (44 tool uses · 73.7k tokens · 6m 23s)
+
+● Task(Agent 1: Analyze 5 extensions)
+  ⎿  Done (51 tool uses · 105.0k tokens · 8m 21s)
+
+● Task(Agent 2: Analyze 5 extensions)
+  ⎿  Done (46 tool uses · 81.5k tokens · 6m 44s)
+
+● Task(Agent 3: Analyze 5 extensions)
+  ⎿  Done (47 tool uses · 65.7k tokens · 6m 59s)
+
+● Task(Agent 4: Analyze 5 extensions)
+  ⎿  Done (31 tool uses · 65.6k tokens · 4m 13s)
+
+● Task(Agent 5: Analyze 5 extensions)
+  ⎿  Done (40 tool uses · 74.3k tokens · 5m 54s)
+
+● Task(Agent 6: Analyze 5 extensions)
+  ⎿  Done (44 tool uses · 92.1k tokens · 7m 24s)
+
+● Task(Agent 7: Analyze 5 extensions)
+  ⎿  Done (56 tool uses · 84.6k tokens · 8m 39s)
+
+● Task(Agent 8: Analyze 5 extensions)
+  ⎿  Done (27 tool uses · 85.2k tokens · 4m 37s)
+
+● Task(Agent 9: Analyze 5 extensions)
+  ⎿  Done (45 tool uses · 69.5k tokens · 6m 28s)
+
+● Task(Agent 10: Analyze 5 extensions)
+  ⎿  Done (38 tool uses · 77.4k tokens · 5m 53s)
