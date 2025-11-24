@@ -2,15 +2,11 @@
 
 Replication study of CoCo static analysis on 197,088 Chrome Web Store extensions, evaluating precision through manual analysis and exploring LLM-based automated validation.
 
-## Overview
-
-Master's thesis supplementary materials (LMU Munich, November 2025)
-
 ## Dataset
 
 - **197,088** Chrome Web Store extensions crawled by my colleagues (February 2025)
 - **1,887** flagged as vulnerable by CoCo (0.96%)
-- **239** manually validated (90% confidence, ±5% margin, 50% Population Proportion)
+- **239** manually validated (90% confidence, ±5% margin, 50% population proportion)
 
 ## Key Results
 
