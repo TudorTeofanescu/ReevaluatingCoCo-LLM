@@ -15,22 +15,24 @@ Replication study of CoCo static analysis on 197,088 Chrome Web Store extensions
 **36.4% precision** (90% CI: 32-42%) under refined threat model
 
 **Top false positive patterns:**
+
 - Hardcoded backend communications (trusted infrastructure)
 - Incomplete storage exploitation chains
 - Attacker parameters to conditional statements
 
 ### RQ2: LLM Validation Effectiveness
 
-**Claude Sonnet 4.5** analyzed all 1,887 flagged extensions 
+**Claude Sonnet 4.5** analyzed all 1,887 flagged extensions
 
-| Metric 			| Result |
-|-------------------------------|--------|
-| Agreement with Manual 	| 81.6%  |
+| Metric                        | Result |
+| ----------------------------- | ------ |
+| Agreement with Manual         | 81.6%  |
 | Sensitivity (True Positives)  | 55.2%  |
 | Specificity (False Positives) | 96.1%  |
-| False Negative Rate 		| 43.7%  |
+| False Negative Rate           | 43.7%  |
 
 **LLM Failure Modes:**
+
 - Cross-file dependency tracking (31.6%)
 - Threat model reasoning errors (26.3%)
 - Code complexity barriers (23.7%)
@@ -47,12 +49,12 @@ Multi-tool agreement filters tool-specific false positives and identifies cleare
 
 ## Repository Contents
 
-- `coco_2021_replication/` - Original CoCo tool and dataset from 2021
-- `llm_analysis_1887/` - Complete LLM analysis files for all 1,887 extensions flagged by CoCo
+- `coco_paper_results_analysis/` - CoCo 39 extensions reported reevaluated under thesis thread model
+- `llm_analysis_1887/` - LLM analysis files for all 1,887 extensions flagged by CoCo
 - `llm_methodology_logs/` - LLM prompts and execution logs
-- `manual_validation_239/` - Ground truth dataset with 239 manually validated extensions
-- `multi_tool_overlap_74/` - Analysis of 74 extensions flagged by both CoCo and DoubleX
-- `scripts/` - Analysis and processing scripts
+- `manual_validation_239/` - Subset 239 manually validated extensions from 2025 dataset
+- `multi_tool_overlap_74/` - Analysis of 74 extensions flagged by both CoCo and DoubleX from 2025 dataset
+- `scripts/` - Scripts to run CoCo on 197k extensions, script to categorize the results, script for LLM to get next extensions to analyze
 
 ## Citation
 
